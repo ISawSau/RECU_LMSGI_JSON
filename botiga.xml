@@ -2,28 +2,28 @@
 <!--Productes d'una botiga-->
 <botiga>
 	<!--Primer producte-->
-	<producte codi="a890">
+	<producte codi="a210">
 		<fabricant>
-			<nomFabr>Apple</nomFabr>
+			<nomFabr>Samsung</nomFabr>
 		</fabricant>
 		<categoria>Electronica</categoria>
-		<nom>Iphone 16</nom> 
+		<nom>Galaxy A20</nom> 
 		<descripcio>Dispositiu mobil</descripcio>
 		<disponibilitat quantitat="25">En stock</disponibilitat>
-		<imatge>https://www.apple.com/euro/iphone-16/a/generic/images/meta/iphone-16_overview__fcivqu9d5t6q_og.png</imatge>
-		<preu moneda="EUR">900</preu>
+		<imatge>https://www.backmarket.es/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D1080/https://d2e6ccujb3mkqf.cloudfront.net/27465b1f-96c9-47f7-9522-2d8e2f88355e-1_bc3428d9-26c5-465e-a445-799d9cb17242.jpg</imatge>
+		<preu moneda="EUR">200</preu>
 	</producte>
 	
 	<!--segon producte -->
-	<producte codi="a102" >
+	<producte codi="a932" >
 		<fabricant >
-			<nomFabr>Editorial Alpina</nomFabr>
+			<nomFabr>Gelgoog Intelligent Technology Co.</nomFabr>
 		</fabricant>
-		<categoria>Muntanya i aventura</categoria>
-		<nom>Taga Serra Cavallera</nom> 
-		<descripcio>Mapa 1:25000</descripcio>
+		<categoria>Industria agraria</categoria>
+		<nom>Máquina Industrial automática para hacer patatas fritas</nom> 
+		<descripcio></descripcio>
 		<disponibilitat quantitat="0">No disponible</disponibilitat>
 		<imatge>https://www.editorialalpina.com/alpina2018/wp-content/uploads/2014/02/TAGA_9788480907309-350x628.jpg</imatge>
-		<preu moneda="EUR">12</preu>
+		<preu moneda="EUR">12.583</preu>
 	</producte>
 </botiga>
